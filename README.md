@@ -1,3 +1,7 @@
+# Deprecated
+
+### :no_entry: This repository is no longer supported with the release of Pilot HDC 1.2 :no_entry:
+
 # Lineage Service
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/agpl-3.0)
